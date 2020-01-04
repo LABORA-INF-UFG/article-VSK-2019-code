@@ -1,2 +1,7 @@
 **/.idea/*
 **/data/*
+**/.Rproj.user/*
+*.eps
+**/venv/*
+*.idea
+**/.idea/*
